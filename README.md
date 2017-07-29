@@ -1,37 +1,248 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/copto42/equipo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/copto42/equipo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>desafio1</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet"  href="css/blog.css">
+</head>
+<body>
+<header class="header-contenedor">
+	<figure class="logotipo">
+		<img src="images/logo.png" width="186" height="60"/>
+	</figure>
+	<nav class="menu">
+		<ul>
+			<li>
+				<a href="desafio1.html">│ Cursos</a>
+			</li>
+			<li>
+				<a href="desafio1.html">│ Blog</a>
+			</li>
+			<li>
+				<a href="desafio1.html">│ FAQ</a>
+			</li>
+			<li>
+				<a href="desafio1.html">│ Horarios</a>
+			</li>
+			<li>
+				<a href="desafio1.html">│ Live</a>
+			</li>
+			<li>
+			<a class="button" href="#desafio1">iniciar sesión</a>
+	        </li>
+	</nav>
+</header>
+<div class="busqueda">
+<input type="tex" name="Buscar" class="search"  />
+<div class="lupita">
+  <a href="">⌕</a> 
+</div>
+</div>
+  <div class="foto0">
+  <div class="cuadro">
+     <div>
+       <h3> watch Dogs 2 ,¿la verdad actual?</h3>
+      </div>
+             <div class="foot">
+            <span style="display: flex;align-items: center;">
+               <img src="images/user.jpg" width="20" height="20">
+            </span>
+            <span>14/07/2017</span>
+         </div>
+  </div> 
+  </div>
+   <article class="foto1">
+   	<img src="images/2.jpg" width="400" height="200" >
+   	<div>
+   		<div>
+   			<h3>Lujos en San Francisco</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto2">
+   	<img src="images/3.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>¿Facebook apostára  por un internet libre?</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto3">
+   	<img src="images/4.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>El nuevo transito de las alturas</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto4">
+   <img src="images/5.jpg" width="400" height="200">
+   <div>
+   		<div>
+   			<h3>Conoce los nuevo procesadores de Intel</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto5">
+   	<img src="images/6.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>San Francisco,el mejor lugar para una startup</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto6">
+   	<img src="images/7.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>¿El mejor celular de este año?</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto7">
+   	  <img src="images/9.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>LA la ciudad de la fama</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto8">
+   	<img src="images/10.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>Los países con mas violencia</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto9">
+   	<img src="images/11.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>10 cosas que no sabías de la deep web</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+<article class="foto10">
+   	<img src="images/12.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>El figet spinner está de regreso</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto11">
+   	<img src="images/13.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>DESPICABLE ME, La taquillera en USA</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto12">
+   	<img src="images/14.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>Los mejores parques de SF,CA</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto13">
+   	<img src="images/15.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>Las mejores oficinas, ¿las tiene google?</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto14">
+   	<img src="images/16.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>xbox one x</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <article class="foto15">
+   	<img src="images/17.jpg" width="400" height="200">
+   	<div>
+   		<div>
+   			<h3>Blizzard company, ¡Los mejore clips!</h3>
+   		</div>
+   		<div class="foot">
+   			<span style="display: flex;align-items: center;">Héctor Copto Ramírez</span>
+   			<span>14/07/2017</span>
+   		</div>
+   	</div>
+   </article>
+   <footer  class="footer">
+      <div class="selector">
+      <h4>Página 1 de 22..</h4>
+      </div>
+      <div class="contenido">
+      <a href="" style="background: white; border-color: white;">1</a>
+      <a href="">2</a>
+      <a href="">3</a>
+      <a href="">4</a>
+      <a href="">siguiente</a>
+      <a href="">última página</a>
+      </div>
+   </footer>
+</body>
+</html>
